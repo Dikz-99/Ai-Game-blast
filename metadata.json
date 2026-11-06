@@ -1,0 +1,6 @@
+{
+  "name": "AI Game Blast",
+  "description": "Universal AI Game Automation Assistant with Computer Vision, ML OCR, and intelligent decision engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Dark Shield Hexagon Background -->
+    <path
+        android:fillColor="#0D111A"
+        android:pathData="M64,6 L118,34 L118,94 L64,122 L10,94 L10,34 Z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3" />
+
+    <!-- Inner Neon Hexagon Accent -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M64,18 L106,40 L106,88 L64,110 L22,88 L22,40 Z"
+        android:strokeColor="#FF2A55"
+        android:strokeWidth="1.5" />
+
+    <!-- Central Gaming Blast Bolt & Crosshair -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M68,36 L44,68 L62,68 L58,92 L84,58 L68,58 Z" />
+
+    <!-- Corner Cyber Targeting Accents -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M38,50 L42,50 M38,78 L42,78 M86,50 L90,50 M86,78 L90,78"
+        android:strokeColor="#00E676"
+        android:strokeWidth="2.5" />
+
+    <!-- Neon Glow Dots -->
+    <path
+        android:fillColor="#FF2A55"
+        android:pathData="M64,26 A3,3 0 1,1 64,25.9 Z M64,102 A3,3 0 1,1 64,101.9 Z" />
+</vector>
